@@ -5,3 +5,4 @@ vim.g.ai_cmp = false
 LazyVim.terminal.setup("powershell")
 vim.opt.softtabstop = 2
 vim.opt.incsearch = true
+vim.opt.clipboard = "unnamedplus"

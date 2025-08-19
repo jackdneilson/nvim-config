@@ -4,5 +4,8 @@ return {
     picker = {
       projects = { "~/doc" },
     },
+    scroll = {
+      enabled = false,
+    },
   },
 }
